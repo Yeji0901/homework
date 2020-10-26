@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d21d405b-89dd-4a8f-8452-c9a80a65de1b" name="Default Changelist" comment="" />
+    <list default="true" id="d21d405b-89dd-4a8f-8452-c9a80a65de1b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/five_bikes_Q.html" beforeDir="false" afterPath="$PROJECT_DIR$/five_bikes_Q.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="50a2321b-13bd-40d5-875b-c4efa5c59fb5" />
   <component name="ProjectId" id="1iXaS3cj7f4YXTDBQnrQJGvm59X" />
@@ -53,6 +58,7 @@
       <workItem from="1602056388188" duration="55000" />
       <workItem from="1602664861424" duration="39000" />
       <workItem from="1602664917033" duration="166000" />
+      <workItem from="1603704602116" duration="21000" />
     </task>
     <servers />
   </component>
